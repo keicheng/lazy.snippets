@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
 <div class="drop">
-    <a class="btn">Drop <span class="caret"></span></a>
+    <a class="btn">${1:Drop} <span class="caret"></span></a>
     <div class="drop-box">
-        ${1:~內容區域~}
+        ${2:~內容區域~}
     </div>
 </div>
 ]]></content>

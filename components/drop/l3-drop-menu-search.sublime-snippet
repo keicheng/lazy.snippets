@@ -1,6 +1,11 @@
 <snippet>
     <content><![CDATA[
 <ul class="drop-box menu">
+    <li class="menu-search">
+        <form>
+            <input type="text" />
+        </form>
+    </li>
     <li class="menu-title">${1:menu title}</li>
     <li class="menu-item">
         <a class="menu-link" href="${2:http://}">${3:item}</a>
@@ -8,15 +13,7 @@
     <li class="menu-item">
         <a class="menu-link" href="${4:http://}">${5:item}</a>
     </li>
-    <li class="menu-divider"></li>
-    <li class="menu-title">${6:menu title}</li>
-    <li class="menu-item">
-        <a class="menu-link" href="${7:http://}">${8:item}</a>
-    </li>
-    <li class="menu-item">
-        <a class="menu-link" href="${9:http://}">${10:item}</a>
-    </li>
 </ul>
 ]]></content>
-    <tabTrigger>l3-drop-menu</tabTrigger>
+    <tabTrigger>l3-drop-menu-search</tabTrigger>
 </snippet>

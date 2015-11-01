@@ -2,10 +2,10 @@
     <content><![CDATA[
 <div class="drop drop-hover">
     <a class="btn">${1:Drop} <span class="caret"></span></a>
-    <div class="drop-box">
+    <div class="drop-box drop-up">
         ${2:~內容區域~}
     </div>
 </div>
 ]]></content>
-    <tabTrigger>l3-drop-hover</tabTrigger>
+    <tabTrigger>l3-drop-hover:u</tabTrigger>
 </snippet>

@@ -1,11 +1,11 @@
 <snippet>
     <content><![CDATA[
 <${1:ol} class="kui-list">
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>${2:item}</li>
+    <li>${3:item}</li>
+    <li>${4:item}</li>
+    <li>${5:item}</li>
+    <li>${6:item}</li>
 </${1:ol}>
 ]]></content>
     <tabTrigger>l3-list</tabTrigger>

@@ -1,11 +1,11 @@
 <snippet>
     <content><![CDATA[
-<div class="drop drop-hover">
+<div class="drop">
     <a class="btn">${1:Drop} <span class="caret"></span></a>
-    <div class="drop-box">
+    <div class="drop-box drop-left">
         ${2:~內容區域~}
     </div>
 </div>
 ]]></content>
-    <tabTrigger>l3-drop-hover</tabTrigger>
+    <tabTrigger>l3-drop:l</tabTrigger>
 </snippet>

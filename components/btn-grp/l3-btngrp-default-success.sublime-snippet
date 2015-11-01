@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<div class="btn-grp color-success">
+    <${1:button} ${2:type="button"} class="btn">${3:Button}</${1:button}>
+    <${4:button} ${5:type="button"} class="btn">${6:Button}</${4:button}>
+    <${7:button} ${8:type="button"} class="btn">${9:Button}</${7:button}>
+</div>
+]]></content>
+    <tabTrigger>l3-btngrp:success</tabTrigger>
+</snippet>
