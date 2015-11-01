@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-<${1:ol} class="kui-list no-bullet">
-    <li>${2:content}</li>
-</${1:ol}>
-]]></content>
-    <tabTrigger>kl3-list:nobullet</tabTrigger>
-</snippet>

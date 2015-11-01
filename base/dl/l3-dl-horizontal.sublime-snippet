@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<dl class="dl-horizontal">
+    <dt>${1:dl title}</dt>
+    <dd>${2:dl content}</dd>
+</dl>
+]]></content>
+    <tabTrigger>l3-dl:horizontal</tabTrigger>
+</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[
-<${1:div} class="avatar size-xxl"><img src="${2:path/images.jpg}" /></${1:div}>
-]]></content>
-    <tabTrigger>kl3-avatar:xxl</tabTrigger>
-</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<${1:div} class="avatar avatar-circle size-xxl">
+    <img src="${2:path/images.jpg}" />
+    <img class="avatar-child" src="${3:path/images.jpg}" />
+</${1:div}>
+]]></content>
+    <tabTrigger>l3-child-avatar</tabTrigger>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+<${1:ol} class="kui-list no-bullet">
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</${1:ol}>
+]]></content>
+    <tabTrigger>l3-list:nobullet</tabTrigger>
+</snippet>
