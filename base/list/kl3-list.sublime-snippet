@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<${1:ol} class="kui-list">
+    <li>${2:content}</li>
+</${1:ol}>
+]]></content>
+    <tabTrigger>kl3-list</tabTrigger>
+</snippet>

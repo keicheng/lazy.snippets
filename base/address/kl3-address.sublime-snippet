@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+<address>
+    <strong>${1:name}</strong>
+    ${2:content}<br />
+    ${3:content}<br />
+    ${4:content}
+</address>
+]]></content>
+    <tabTrigger>kl3-address</tabTrigger>
+</snippet>
