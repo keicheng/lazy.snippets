@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+<div class="info-item info-item-vertical">
+    <div class="info-item-cover">
+        <img src="${1:img/demo1.jpg}">
+    </div>
+    <div class="info-item-content">
+        <h4 class="info-item-title"><a href="${2:link}">${3:title}</a></h4>
+        <p class="info-item-text">${4:~略~}</p>
+        <div class="info-item-bottom">
+            ${5:~略~}
+        </div>
+    </div>
+    <div class="info-item-addon">
+        ${6:~略~}
+    </div>
+</div>
+]]></content>
+    <tabTrigger>l3-infoitems-vertical</tabTrigger>
+</snippet>

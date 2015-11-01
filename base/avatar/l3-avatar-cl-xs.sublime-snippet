@@ -4,5 +4,5 @@
     <img src="${2:path/images.jpg}" />
 </${1:div}>
 ]]></content>
-    <tabTrigger>l3-cl-avatar:xs</tabTrigger>
+    <tabTrigger>l3-cl-avatar-xs</tabTrigger>
 </snippet>

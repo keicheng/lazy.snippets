@@ -1,0 +1,26 @@
+<snippet>
+    <content><![CDATA[
+<!DOCTYPE html>
+<html lang="${1:zh}">
+    <head>
+        <!--Base Meta Start-->
+        <meta http-equiv="Content-Type" charset="utf-8" >
+        <meta http-equiv="Content-Language" content="${1:zh}" >
+        <meta name="robots" content="all" >
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="description" content="${2:Kule Lazy 3 寫得少卻變得更多。}" >
+        <meta name="keywords" content="${3:keywords}" >
+        <title>${4:Kule Lazy 3}</title>
+        <link rel="Shortcut icon" href="${4:img/favicon.png}" >
+        <link rel="Bookmark" href="${4:img/favicon.png}" >
+
+        <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/kule.lazy/${5:3.0.1101beta}/css/kule-lazy-full.min.css" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/kule.lazy/${5:3.0.1101beta}/js/kule-urbrowser.min.js""></script>
+    </head>
+    <body>
+    </body>
+</html>
+]]></content>
+    <tabTrigger>l3-template</tabTrigger>
+</snippet>

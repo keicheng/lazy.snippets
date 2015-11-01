@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/kule.lazy/${1:3.0.1101beta}/css/kule-lazy-full.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/kule.lazy/${1:3.0.1101beta}/js/kule-urbrowser.min.js""></script>
+]]></content>
+    <tabTrigger>l3-cdn</tabTrigger>
+</snippet>

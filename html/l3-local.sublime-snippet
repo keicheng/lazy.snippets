@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet" href="css/kule-lazy-full.min.css">
+<script src="js/kule-urbrowser.min.js""></script>
+]]></content>
+    <tabTrigger>l3-local</tabTrigger>
+</snippet>

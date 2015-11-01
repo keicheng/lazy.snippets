@@ -1,0 +1,62 @@
+<snippet>
+    <content><![CDATA[
+<div class="chat">
+    <div class="chat-header">
+        <a class="chat-roomname">
+            <img src="${2:img/demo1.jpg}">
+            ${1:Room Name}
+        </a>
+        <div class="chat-ctrls">
+            <a class="chat-ctrl-item">
+                <span class="icon"></span>
+            </a>
+            <a class="chat-ctrl-item">
+                <span class="icon"></span>
+            </a>
+            <a class="chat-ctrl-item">
+                <span class="icon"></span>
+            </a>
+        </div>
+        <div class="chat-member-list">
+            <a class="chat-member">
+                <img src="${2:img/demo1.jpg}">
+            </a>
+        </div>
+    </div>
+    <div class="chat-body">
+        <div class="chat-msg-item left">
+            <a class="chat-avatar">
+                <img src="${2:img/demo1.jpg}">
+            </a>
+            <div class="chat-content">
+                <p>${3:~略~}</p>
+                <div class="chat-time">
+                    <time datetime="${4:2013-11-1 15:34:28}">${5:15:34:28}</time>
+                </div>
+            </div>
+        </div>
+        <div class="chat-msg-item right">
+            <a class="chat-avatar">
+                <img src="${2:img/demo1.jpg}">
+            </a>
+            <div class="chat-content">
+                <p>${3:~略~}</p>
+                <div class="chat-time">
+                    <time datetime="${4:2013-11-1 15:34:28}">${5:15:34:28}</time>
+                    <span class="chat-read">Read</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="chat-footer">
+        <div class="input-grp">
+            <input type="text" class="ctrl-input" />
+            <span class="input-grp-btn">
+                <a class="btn">Submit</a>
+            </span>
+        </div>
+    </div>
+</div>
+]]></content>
+    <tabTrigger>l3-chats</tabTrigger>
+</snippet>

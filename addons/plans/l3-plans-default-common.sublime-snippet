@@ -1,0 +1,27 @@
+<snippet>
+    <content><![CDATA[
+<div class="plan-card color-common">
+    <span class="ribbon-flag"></span>
+    <div class="plan-header">
+        <h4 class="plan-header-title">${1:Plan Title}</h4>
+        ${2:<div class="plan-header-note">Lorem ipsum dolor sit amet.</div>}
+    </div>
+    <div class="plan-main">
+        <div class="plan-price">
+            ${3:NTD <strong class="price">149</strong> / month}
+        </div>
+        ${4:<div class="plan-main-text">5% Transaction Fee per Order</div>}
+    </div>
+    <div class="plan-detail">
+        <ul class="plan-detail-list">
+            <li class="plan-detail-item">${5:detail item}</li>
+        </ul>
+        <p class="plan-detail-text">${6:detail description}</p>
+    </div>
+    <div class="plan-footer">
+        <a class="btn-outline">${7:Signin}</a>
+    </div>
+</div>
+]]></content>
+    <tabTrigger>l3-plans:common</tabTrigger>
+</snippet>
